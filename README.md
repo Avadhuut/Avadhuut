@@ -113,20 +113,18 @@ I enjoy designing **clean, scalable, maintainable architectures** and working ac
 <div style="display: flex; gap: 15px; align-items: center;">
 
   <a href="https://x.com/av_dhoot" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X (Twitter)" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X " />
   </a>
 
   <a href="https://www.linkedin.com/in/avadhutb/" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
 
-  <a href="mailto:your-email@example.com" target="_blank" style="text-decoration: none;">
+  <a href="mailto:your-avadhutbhosale2001@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
 
-  <a href="https://github.com/Avadhuut" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  </a>
+
 
 </div>
 
