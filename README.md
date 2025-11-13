@@ -111,25 +111,24 @@ I enjoy designing **clean, scalable, maintainable architectures** and working ac
 
 ## 🌐 Connect With Me
 
-<p align="left" style="margin-top: 10px; display: flex; gap: 12px;">
-
+<p align="left">
   <a href="https://x.com/av_dhoot">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="26" alt="X (Twitter)" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/x.svg" width="32" height="32" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/avadhutb/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="26" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="mailto:your-email@example.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="26" alt="Email" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://github.com/Avadhuut">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="26" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
-
 </p>
+
 
 
 
