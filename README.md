@@ -64,25 +64,6 @@ I focus on writing **clean, testable, scalable** backend systems and building sm
 <!--                  FEATURED PROJECTS                     -->
 <!-- ====================================================== -->
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Avadhuut/SmartFleet" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhuut&repo=SmartFleet&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="#" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhuut&repo=SomeProject&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 <!-- ====================================================== -->
 <!--                    GITHUB ANALYTICS                    -->
 <!-- ====================================================== -->
