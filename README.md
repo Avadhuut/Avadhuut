@@ -108,7 +108,6 @@ I enjoy designing **clean, scalable, maintainable architectures** and working ac
 <!--                        CONTACT                         -->
 <!-- ====================================================== -->
 
-## 🌐 Connect With Me
 
 ## 🌐 Connect With Me
 
