@@ -1,117 +1,150 @@
-<!-- ======================================= -->
-<!--             HEADER SECTION              -->
-<!-- ======================================= -->
+<!-- ====================================================== -->
+<!--                   PREMIUM TECH-GRID BANNER            -->
+<!-- ====================================================== -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#38bdf8;">Avadhut Bhosale</span></h1>
-<h3 align="center">Full-Stack Java Developer | Spring Boot | React.js | Microservices</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,100:0d1117&text=Avadhut%20Bhosale&fontColor=38bdf8&fontAlignY=40&fontSize=55&desc=Full-Stack%20Engineer%20focused%20on%20Clean%20Architecture&descAlignY=60&descAlign=50&descSize=20" />
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--                    INTRO + ANIMATION                  -->
+<!-- ====================================================== -->
+
+<h2 align="center">👋 Welcome to my GitHub</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=38bdf8&size=22&center=true&vCenter=true&width=600&lines=Java+Developer+%7C+React+Developer;Spring+Boot+%7C+Microservices+Architecture;Building+Scalable+Backend+Systems;Full-Stack+Developer+from+India" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=38bdf8&size=22&center=true&vCenter=true&width=600&lines=Full-Stack+Java+%7C+React+Developer;Spring+Boot+%7C+Microservices+Architect;Building+Systems+with+Clean+Architecture;Distributed+Systems+%7C+Cloud-Native+Engineering" />
 </p>
 
 ---
 
-<!-- ======================================= -->
-<!--               ABOUT ME                  -->
-<!-- ======================================= -->
+<!-- ====================================================== -->
+<!--                        ABOUT ME                        -->
+<!-- ====================================================== -->
 
 ## 🧑‍💻 About Me
-- 🚀 Full Stack Developer (Java + React.js)
-- 🏗 Experienced in **Distributed Systems, Microservices & Event-driven Architecture**
-- ⚙️ Backend: **Java | Spring Boot | Spring Cloud | Kafka | Redis**
-- 🎨 Frontend: **React | Redux | Tailwind**
-- 🐳 DevOps: **Docker | Kubernetes | CI/CD**
-- 🎯 Currently building: **SmartFleet – Complete Fleet Management Microservices System**
-- ❤️ Love writing clean, scalable & production-ready code.
+
+I'm a **Full-Stack Engineer** passionate about designing **scalable**, **clean**, and **future-proof architectures**.  
+My expertise lies in:
+
+- 🏗 **Java + Spring Boot Microservices**
+- ⚙️ **System Design & Clean Architecture**
+- ⚡ **Kafka, Redis, Docker, Kubernetes**
+- 🎨 **React.js + Redux Toolkit + TailwindCSS**
+
+💼 Currently building:  
+📦 **SmartFleet — a complete Fleet Management System using Real Microservices**  
+with **Kafka events**, **Redis caching**, **API Gateway**, and **React Dashboard UI**.
 
 ---
 
-<!-- ======================================= -->
-<!--           TECH STACK (NEO)              -->
-<!-- ======================================= -->
+<!-- ====================================================== -->
+<!--                    TECH STACK SECTION                  -->
+<!-- ====================================================== -->
 
-## ⚙️ Tech Stack (Dark Neo Icons)
+## 🚀 Tech Stack (Top-Tier, Full-Stack)
 
-### 🟦 Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,mysql,postgres" />
-</p>
-
-### 🟩 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css" />
-</p>
-
-### 🟧 DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,postman,git,linux,idea" />
-</p>
-
----
-
-<!-- ======================================= -->
-<!--             BADGES SECTION              -->
-<!-- ======================================= -->
-
-## 🏅 Skill Badges
+### 🔵 Backend Development  
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,mysql,postgres,maven" />
+</p>
+
+### 🟢 Frontend Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css,js" />
+</p>
+
+### 🟣 DevOps & Cloud-Native  
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,nginx,postman,idea" />
 </p>
 
 ---
 
-<!-- ======================================= -->
-<!--        FEATURED PROJECT SECTION         -->
-<!-- ======================================= -->
+<!-- ====================================================== -->
+<!--                SKILL BADGES (PREMIUM)                 -->
+<!-- ====================================================== -->
 
-## 🚀 Featured Project — **SmartFleet (Microservices System)**
+## 🏅 Professional Skill Badges
 
-### 🧩 Architecture:
-- 🔹 Java + Spring Boot  
-- 🔹 6 Microservices → Trip | Driver | Fleet | Tracking | Alert | Analytics  
-- 🔹 Kafka Event Streaming  
-- 🔹 Redis Caching  
-- 🔹 Spring Cloud Gateway  
-- 🔹 Config Server + Service Registry  
-- 🔹 Docker + Kubernetes Deployment  
-- 🔹 React.js Dashboard UI  
-
-### 🔥 Features:
-- Live tracking (GPS Simulation)  
-- Real-time Alerts  
-- Trip Management  
-- Driver & Fleet Management  
-- Dashboards & Analytics  
-- Fault-tolerant + scalable  
-
----
-
-<!-- ======================================= -->
-<!--           PROJECT CARDS UI              -->
-<!-- ======================================= -->
-
-## 📦 Projects (Showcase)
-
-<p align="center">
-  <a href="https://github.com/Avadhuut/SmartFleet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhuut&repo=SmartFleet&theme=tokyonight" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=1D63ED" />
+  <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
 </p>
 
-> Want me to add more projects here? Just tell me! 
+---
+
+<!-- ====================================================== -->
+<!--        SMARTFLEET – FULL ARCHITECTURE DIAGRAM         -->
+<!-- ====================================================== -->
+
+## 🧩 SmartFleet — Enterprise Architecture Blueprint (Full)
+
+               ┌──────────────────────────────┐
+               │       API Gateway             │
+               └───────────────┬──────────────┘
+                               │
+         ┌────────────────────────────────────────────┐
+         │     Spring Cloud Config Server (Git)        │
+         └────────────────────────────────────────────┘
+                               │
+           ┌─────────────── Service Registry ───────────────┐
+           │                  (Eureka)                       │
+           └──────────────────────────────┬──────────────────┘
+                                          │
+  ┌───────────────┬──────────────────┬──────────────────────----------┬─────────────────────────┐
+  │               │                  │           |                │                         
+┌──────────┐   ┌───────────┐ ┌───────────┐ ┌──────────────┐ ┌──────────────────┐
+│ TripSvc │    │ DriverSvc │ │ FleetSvc  │ │ TrackingSvc  │ │ AlertSvc         │
+└──────────┘   └───────────┘ └───────────┘ └──────────────┘ └──────────────────┘
+    │             │             │               │                 │
+└──────► Kafka Topics ◄──────────────────────────────┴───────────────► Alerts
+
+                        ┌──────────────────────────────────────────┐
+                        │        Analytics Service                  │
+                        │   Kafka Streams + PostgreSQL + Redis      │
+                        └──────────────────────────────────────────┘
+
+                                  ┌───────────────────┐
+                                  │   React Dashboard  │
+                                  │  (Tailwind + RTK)  │
+                                  └───────────────────┘
+
+
 
 ---
 
-<!-- ======================================= -->
-<!--             GITHUB STATS                -->
-<!-- ======================================= -->
+<!-- ====================================================== -->
+<!--                PROJECT SHOWCASE (GRID)                 -->
+<!-- ====================================================== -->
 
-## 📊 GitHub Stats (Premium Dark Mode)
+## 📦 Project Showcase
+
+<div align="center">
+
+<a href="https://github.com/Avadhuut/SmartFleet">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhuut&repo=SmartFleet&theme=tokyonight" />
+</a>
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhuut&repo=SomeProject&theme=tokyonight" />
+</a>
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--                GITHUB STATS (PRO MODE)                -->
+<!-- ====================================================== -->
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Avadhuut&show_icons=true&theme=tokyonight" />
@@ -124,31 +157,37 @@
 
 ---
 
-<!-- ======================================= -->
-<!--      ANIMATED SNAKE CONTRIBUTION        -->
-<!-- ======================================= -->
+<!-- ====================================================== -->
+<!--             SNAKE CONTRIBUTION (ANIMATED)              -->
+<!-- ====================================================== -->
 
-## 🐍 GitHub Contribution Snake
+## 🐍 Contribution Graph (Animated Snake)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-<!-- ======================================= -->
-<!--            SOCIAL LINKS (DARK)           -->
-<!-- ======================================= -->
+<!-- ====================================================== -->
+<!--                  CONNECT WITH ME                       -->
+<!-- ====================================================== -->
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
+
 <p>
-  <a href="https://x.com/av_dhoot"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/avadhutb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/av_dhoot">
+    <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/avadhutb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Avadhuut&label=Profile%20Views&color=1e90ff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Avadhuut&label=Profile%20Views&color=38bdf8&style=flat-square" />
 </p>
 
 ---
 
-<h3 align="center">🔥 Full-Stack Java + React Developer | Microservices Engineer | Cloud Native Builder</h3>
+<h3 align="center">✨ Full-Stack Engineer | Clean Architecture | Distributed Systems</h3>
