@@ -101,9 +101,9 @@ I focus on writing **clean, testable, scalable** backend systems and building sm
   </a>
 </p>
 
-
-
-
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+😊;Have+a+great+day!;Happy+Coding+💻✨" />
+</h2>
 ---
 
 <div align="center">
