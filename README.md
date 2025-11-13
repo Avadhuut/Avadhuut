@@ -33,37 +33,33 @@ I focus on writing **clean, testable, scalable** backend systems and building sm
 
 ## 🚀 Tech Stack :
 
----
-
 ### 🟩 Backend
 <p>
-  <img src="https://img.shields.io/badge/Java-FEAA2D?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=openjdk&logoColor=red&labelColor=00000020" />
+  <img src="https://img.shields.io/badge/Spring_Boot-ffffff?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=00000020" />
+  <img src="https://img.shields.io/badge/Kafka-ffffff?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=00000020" />
+  <img src="https://img.shields.io/badge/Redis-ffffff?style=for-the-badge&logo=redis&logoColor=DC382D&labelColor=00000020" />
+  <img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=00000020" />
+  <img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=00000020" />
 </p>
 
 ### 🟦 Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=00000020" />
+  <img src="https://img.shields.io/badge/Redux-ffffff?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=00000020" />
+  <img src="https://img.shields.io/badge/TailwindCSS-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8&labelColor=00000020" />
+  <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=00000020" />
+  <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=00000020" />
 </p>
 
 ### 🟧 DevOps & Tools
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=00000020" />
+  <img src="https://img.shields.io/badge/Kubernetes-ffffff?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=00000020" />
+  <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032&labelColor=00000020" />
+  <img src="https://img.shields.io/badge/Postman-ffffff?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=00000020" />
+  <img src="https://img.shields.io/badge/IntelliJIDEA-ffffff?style=for-the-badge&logo=intellijidea&logoColor=000000&labelColor=00000020" />
 </p>
----
-
 <!-- ====================================================== -->
 <!--                  FEATURED PROJECTS                     -->
 <!-- ====================================================== -->
