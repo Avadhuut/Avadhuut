@@ -101,6 +101,8 @@ I focus on writing **clean, testable, scalable** backend systems and building sm
   </a>
 </p>
 
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF9933&center=true&vCenter=true&lines=Initializing...;Loading+Profile...;See+you+again,+developer+👨‍💻✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=%23FF9933&center=true&vCenter=true&repeat=true&width=800&lines=See+you+again,+developer+👨‍💻✨;" />
 </p>
