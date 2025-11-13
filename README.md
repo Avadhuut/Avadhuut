@@ -92,19 +92,21 @@ I focus on writing **clean, testable, scalable** backend systems and building sm
 <!--                     CONTACT SECTION                     -->
 <!-- ====================================================== -->
 
-## 🌐 Connect With Me
+## 🌐 Socials :
 
-<p align="left">
-  <a href="https://x.com/av_dhoot" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/x.svg" width="32" height="32" />
-  </a>
-  &nbsp;&nbsp;
+---
+
+<p>
   <a href="https://www.linkedin.com/in/avadhutb/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:avadhutbhosale2001@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" />
+  &nbsp;
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
