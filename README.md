@@ -110,14 +110,26 @@ I enjoy designing **clean, scalable, maintainable architectures** and working ac
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://x.com/av_dhoot" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<div style="display: flex; gap: 15px; align-items: center;">
+
+  <a href="https://x.com/av_dhoot" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X (Twitter)" />
   </a>
-  <a href="https://www.linkedin.com/in/avadhutb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+  <a href="https://www.linkedin.com/in/avadhutb/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
-</p>
+
+  <a href="mailto:your-email@example.com" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
+  </a>
+
+  <a href="https://github.com/Avadhuut" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  </a>
+
+</div>
+
 
 ---
 
