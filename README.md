@@ -101,11 +101,14 @@ I focus on writing **clean, testable, scalable** backend systems and building sm
   </a>
 </p>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+😊;Have+a+great+day!;Happy+Coding+💻✨" />
-</h2>
----
-
 <div align="center">
-  <strong>Building scalable systems with clean engineering.</strong>
+
+  <!-- Terminal Window Frame -->
+  <img src="https://i.imgur.com/7yUVE6J.png" width="500"/>
+
+  <!-- Typing Animation -->
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+System...;Loading+Profile+Data...;Connection+Established.;Thank+you+for+visiting!+👋;Process+Completed.;Exit+Code:+0_" />
+  </p>
+
 </div>
