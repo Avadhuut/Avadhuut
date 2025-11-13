@@ -1,151 +1,130 @@
 <!-- ====================================================== -->
-<!--                   PREMIUM TECH-GRID BANNER            -->
+<!--                  PROFESSIONAL HEADER                  -->
 <!-- ====================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,100:0d1117&text=Avadhut%20Bhosale&fontColor=38bdf8&fontAlignY=40&fontSize=55&desc=Full-Stack%20Engineer%20focused%20on%20Clean%20Architecture&descAlignY=60&descAlign=50&descSize=20" />
+  <h1 style="font-size: 42px; margin-bottom: -10px;">Avadhut Bhosale</h1>
+  <h3 style="color: #38bdf8;">Full-Stack Engineer • Java • Spring Boot • React</h3>
+  <p><i>Focused on Clean Architecture, Scalable Systems & High-quality Engineering</i></p>
 </div>
 
 ---
 
 <!-- ====================================================== -->
-<!--                    INTRO + ANIMATION                  -->
+<!--                        ABOUT ME                       -->
 <!-- ====================================================== -->
 
-<h2 align="center">👋 Welcome to my GitHub</h2>
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=38bdf8&size=22&center=true&vCenter=true&width=600&lines=Full-Stack+Java+%7C+React+Developer;Spring+Boot+%7C+Microservices+Architect;Building+Systems+with+Clean+Architecture;Distributed+Systems+%7C+Cloud-Native+Engineering" />
-</p>
+I'm a **Full-Stack Engineer** specializing in **Java, Spring Boot, Microservices, and React.js**.  
+I enjoy designing **clean, scalable, maintainable architectures** and working across the full development lifecycle.
+
+### 🔹 What I Do  
+- Design **distributed microservices** using Spring Boot  
+- Build **React + Tailwind** frontend applications  
+- Work with **Kafka, Redis, Docker, Kubernetes**  
+- Follow **Clean Architecture & Domain-driven principles**  
+- Write production-ready, testable, maintainable code  
 
 ---
 
 <!-- ====================================================== -->
-<!--                        ABOUT ME                        -->
+<!--                      TECH STACK                       -->
 <!-- ====================================================== -->
 
-## 🧑‍💻 About Me
+## 🚀 Tech Stack
 
-I'm a **Full-Stack Engineer** passionate about designing **scalable**, **clean**, and **future-proof architectures**.  
-My expertise lies in:
-
-- 🏗 **Java + Spring Boot Microservices**
-- ⚙️ **System Design & Clean Architecture**
-- ⚡ **Kafka, Redis, Docker, Kubernetes**
-- 🎨 **React.js + Redux Toolkit + TailwindCSS**
-
-💼 Currently building production-grade microservices projects.
-
----
-
-<!-- ====================================================== -->
-<!--                    TECH STACK SECTION                  -->
-<!-- ====================================================== -->
-
-## 🚀 Tech Stack (Top-Tier, Full-Stack)
-
-### 🔵 Backend Development  
+### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,mysql,postgres,maven" />
+  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="45"/></a>
+  <a href="https://spring.io" target="_blank"><img src="https://skillicons.dev/icons?i=spring" height="45"/></a>
+  <a href="https://kafka.apache.org" target="_blank"><img src="https://skillicons.dev/icons?i=kafka" height="45"/></a>
+  <a href="https://redis.io" target="_blank"><img src="https://skillicons.dev/icons?i=redis" height="45"/></a>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="45"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="45"/></a>
 </p>
 
-### 🟢 Frontend Development  
+### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css,js" />
+  <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="45"/></a>
+  <a href="https://redux.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=redux" height="45"/></a>
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="45"/></a>
 </p>
 
-### 🟣 DevOps & Cloud-Native  
+### **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,nginx,postman,idea" />
+  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="45"/></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" height="45"/></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="45"/></a>
+  <a href="https://www.postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" height="45"/></a>
+  <a href="https://www.jetbrains.com/idea" target="_blank"><img src="https://skillicons.dev/icons?i=idea" height="45"/></a>
 </p>
 
 ---
 
 <!-- ====================================================== -->
-<!--                SKILL BADGES (PREMIUM)                 -->
+<!--                    FEATURED PROJECTS                   -->
 <!-- ====================================================== -->
 
-## 🏅 Professional Skill Badges
+## 📦 Featured Projects
 
-<p>
-  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=1D63ED" />
-  <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Avadhuut/SmartFleet" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhuut&repo=SmartFleet&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="#" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhuut&repo=SomeProject&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <!-- ====================================================== -->
-<!--                PROJECT SHOWCASE (GRID)                 -->
-<!-- ====================================================== -->
-
-## 📦 Project Showcase
-
-<div align="center">
-
-<a href="https://github.com/Avadhuut/SmartFleet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhuut&repo=SmartFleet&theme=tokyonight" />
-</a>
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhuut&repo=SomeProject&theme=tokyonight" />
-</a>
-
-</div>
-
----
-
-<!-- ====================================================== -->
-<!--                GITHUB STATS (PRO MODE)                -->
+<!--                     GITHUB STATS                      -->
 <!-- ====================================================== -->
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Avadhuut&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Avadhuut&theme=tokyonight" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Avadhuut&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=Avadhuut&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avadhuut&layout=compact&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avadhuut&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <!-- ====================================================== -->
-<!--             SNAKE CONTRIBUTION (ANIMATED)              -->
-<!-- ====================================================== -->
-
-## 🐍 Contribution Graph (Animated Snake)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<!-- ====================================================== -->
-<!--                  CONNECT WITH ME                       -->
+<!--                        CONTACT                         -->
 <!-- ====================================================== -->
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://x.com/av_dhoot">
-    <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" />
+<p align="left">
+  <a href="https://x.com/av_dhoot" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/avadhutb/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <a href="https://www.linkedin.com/in/avadhutb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Avadhuut&label=Profile%20Views&color=38bdf8&style=flat-square" />
 </p>
 
 ---
 
-<h3 align="center">✨ Full-Stack Engineer | Clean Architecture | Distributed Systems</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Avadhuut&label=Profile%20Views&color=1e90ff&style=flat-square" />
+</p>
+
+<div align="center">
+  <strong>Full-Stack Engineer • Clean Architecture • Java • React</strong>
+</div>
