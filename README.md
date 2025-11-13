@@ -92,9 +92,7 @@ I focus on writing **clean, testable, scalable** backend systems and building sm
 <!--                     CONTACT SECTION                     -->
 <!-- ====================================================== -->
 
-## 🌐 Socials :
-
-## 🌐 Socials :
+## 🌐 Connect With Me :
 
 ---
 
@@ -111,6 +109,8 @@ I focus on writing **clean, testable, scalable** backend systems and building sm
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
 
 
 ---
