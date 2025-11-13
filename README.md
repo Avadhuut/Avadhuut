@@ -121,9 +121,7 @@ I enjoy designing **clean, scalable, maintainable architectures** and working ac
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Avadhuut&label=Profile%20Views&color=1e90ff&style=flat-square" />
-</p>
+
 
 <div align="center">
   <strong>Full-Stack Engineer • Clean Architecture • Java • React</strong>
