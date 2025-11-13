@@ -120,13 +120,11 @@ I enjoy designing **clean, scalable, maintainable architectures** and working ac
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
+  
+  <a href="mailto:avadhutbhosale2001@gmai.com">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Avadhuut">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
+
 </p>
 
 
