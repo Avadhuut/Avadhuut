@@ -110,23 +110,28 @@ I enjoy designing **clean, scalable, maintainable architectures** and working ac
 
 ## 🌐 Connect With Me
 
-<div style="display: flex; gap: 15px; align-items: center;">
+## 🌐 Connect With Me
 
-  <a href="https://x.com/av_dhoot" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X " />
+<p align="left" style="margin-top: 10px; display: flex; gap: 12px;">
+
+  <a href="https://x.com/av_dhoot">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="26" alt="X (Twitter)" />
   </a>
 
-  <a href="https://www.linkedin.com/in/avadhutb/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/avadhutb/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="26" alt="LinkedIn" />
   </a>
 
-  <a href="mailto:your-avadhutbhosale2001@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
+  <a href="mailto:your-email@example.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="26" alt="Email" />
   </a>
 
+  <a href="https://github.com/Avadhuut">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="26" alt="GitHub" />
+  </a>
 
+</p>
 
-</div>
 
 
 ---
