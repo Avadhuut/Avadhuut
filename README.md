@@ -101,15 +101,6 @@ I focus on writing **clean, testable, scalable** backend systems and building sm
   </a>
 </p>
 
-<!-- MATRIX EFFECT + TERMINAL OUTRO -->
-<div align="center">
-
-  <!-- Matrix Rain Background -->
-  <img src="https://i.imgur.com/2c0Z4rQ.gif" width="600"/>
-
-  <!-- Terminal Typing Animation -->
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=650&lines=Initializing+Matrix...;Decrypting+Visitor+Data...;Access+Granted.;Thank+you+for+visiting!+👋;Return+to+The+System+Soon.;Goodbye+Operative.+🟢" />
-  </p>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&center=true&vCenter=true&lines=Initializing...;Loading+Profile...;Thanks+for+visiting!+👋;Have+a+great+day+🚀" />
+</p>
