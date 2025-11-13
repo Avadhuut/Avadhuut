@@ -85,7 +85,6 @@ I focus on writing **clean, testable, scalable** backend systems and building sm
 
 ## 🌐 Connect With Me :
 
----
 
 <p>
   <a href="https://www.linkedin.com/in/avadhutb/" target="_blank">
@@ -101,7 +100,9 @@ I focus on writing **clean, testable, scalable** backend systems and building sm
   </a>
 </p>
 
+<br><br>
 
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=%23FF9933&center=true&vCenter=true&repeat=true&width=800&lines=See+you+again,+developer+👨‍💻✨;" />
